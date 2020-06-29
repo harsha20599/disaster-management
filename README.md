@@ -13,7 +13,7 @@ resources; for instance, there is a widespread human, economic, environmental an
 material impact due to turbulent cyclones. Disaster Management refers to conservation of
 lives and property during a natural and man-made disaster. Disaster management plans are
 multi-layered and are planned to address issues such as floods, hurricanes, fires, mass
-failure of utilities, rapid spread of disease and droughts. In this disaster
+failure of utilities, rapid spread of disease and droughts. 
 
 
 With the help of this project we can prevent the damage occurred to some extent.
