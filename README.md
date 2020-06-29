@@ -6,6 +6,11 @@ Disaster management project  created by aditya collage of engineering [students]
 - Achuer ayuel
 - G harsha vardhan
 
+#description
+With the help of this project we can prevent the damage occurred to some extent.
+This project management we have three phases with respect to the stages of disaster is
+made with the Moto to help people. We use Django in this project. Django is a highlevel Python web framework that encourages rapid development and clean pragmatic
+design.
 
 # Requirements 
 1) first install python 3.+
