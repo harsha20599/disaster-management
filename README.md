@@ -21,6 +21,10 @@ This project management we have three phases with respect to the stages of disas
 made with the Moto to help people. We use Django in this project. Django is a highlevel Python web framework that encourages rapid development and clean pragmatic
 design.
 
+# Languages
+- PYTHON, HTML, CSS ,JAVASCRIPT
+Framework:-Django
+
 # Requirements 
 1) first install python 3.+
 2) next install django 
