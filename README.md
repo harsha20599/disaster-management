@@ -6,7 +6,6 @@ Disaster management project  created by aditya collage of engineering [students]
 - Achuer ayuel
 - G harsha vardhan
 
-[![Build Status](https://github.com/kvvsatyaravi/disaster-management)]
 
 # Requirements 
 1) first install python 3.+
