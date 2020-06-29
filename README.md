@@ -13,10 +13,10 @@ next install django
 # instructions to run application
 cd disaster management
 open command prompt on that folder
-> python manage.py runserver
-```sh
-for more information or guidance see doc.pdf
-```
+ python manage.py runserver
+
+for more information or guidance open doc.pdf
+
 
 License
 ----
