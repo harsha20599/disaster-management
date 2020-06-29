@@ -22,8 +22,7 @@ made with the Moto to help people. We use Django in this project. Django is a hi
 design.
 
 # Languages
-- PYTHON, HTML, CSS ,JAVASCRIPT
-Framework:-Django
+- Python,Html,Css,JAvascript,Django (framework)
 
 # Requirements 
 1) first install python 3.+
